@@ -1,0 +1,32 @@
+.intro__contain {
+    padding: 92px 0;
+    margin: 0 auto 0 148px;
+    max-width: 690px;
+    min-height: 429px;
+}
+
+@media screen and (max-width: 1279px) {
+    .intro__contain {
+        margin: 0 auto 0 48px;
+        max-width: 690px;
+        min-height: 429px;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .intro__contain {
+        padding: 88px 0;
+        margin: 0 24px;
+        max-width: 720px;
+        min-height: 429px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .intro__contain {
+        padding: 64px 0;
+        margin: 0 16px;
+        min-height: 754px;
+        width: calc(100% - 32px);
+    }
+}

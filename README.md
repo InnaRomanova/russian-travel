@@ -19,4 +19,4 @@
 
 **Ссылка на GitHub Pages**
 
-[Ссылка на готовый проект](https://github.com/InnaRomanova/russian-travel.git)
+[Ссылка на готовый проект](https://github.com/InnaRomanova/russian-travel.git/index.html)

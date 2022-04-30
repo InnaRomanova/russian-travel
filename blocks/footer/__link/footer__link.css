@@ -5,11 +5,12 @@
 }
 
 .footer__link:last-of-type {
-    margin: 0;
+    margin-right: 0;
 }
 
 @media screen and (max-width: 767px) {
     .footer__link {
-        margin: 0 0 32px 0;
+        margin-right: 0;
+        margin-bottom: 32px;
     }
 }

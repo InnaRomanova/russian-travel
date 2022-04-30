@@ -19,7 +19,7 @@
 
 @media screen and (max-width: 1023px) {
   .place {
-    margin: 0 auto 73px;
+    margin-bottom: 73px;
     column-gap: 28px;
   }
 }
@@ -27,7 +27,7 @@
 @media screen and (max-width: 767px) {
   .place {
     row-gap: 32px;
-    margin: 0 auto 50px;
+    margin-bottom: 50px;
     grid-template-columns: 1fr;
     width: 100%;
   }

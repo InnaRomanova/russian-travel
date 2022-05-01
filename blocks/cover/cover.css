@@ -1,18 +1,31 @@
 .cover {
+<<<<<<< HEAD
   margin: 0;
+=======
+  margin: 0 48px;
+>>>>>>> gh-pages
   padding: 0 0 92px;
+  max-width: 1184px;
 }
 
 @media screen and (max-width: 1279px) {
   .cover {
     width: 100%;
     min-height: 640px;
+<<<<<<< HEAD
+=======
+    margin-left: 0;
+    margin-right: 0;
+>>>>>>> gh-pages
   }
 }
 
 @media screen and (max-width: 1023px) {
   .cover {
+<<<<<<< HEAD
     width: 100%;
+=======
+>>>>>>> gh-pages
     padding-bottom: 88px;
     min-height: 480px;
 
@@ -21,7 +34,10 @@
 
 @media screen and (max-width: 767px) {
   .cover {
+<<<<<<< HEAD
     width: 100%;
+=======
+>>>>>>> gh-pages
     min-height: 200px;
     padding-bottom: 64px;
   }

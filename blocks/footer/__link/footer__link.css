@@ -12,8 +12,6 @@
     .footer__link {
         margin-right: 0;
         margin-bottom: 32px;
-<<<<<<< HEAD
-=======
     }
 }
 
@@ -21,6 +19,5 @@
     .footer__link:last-child {
         margin-right: 0;
         margin-bottom: 0;
->>>>>>> gh-pages
     }
 }
